@@ -1,0 +1,26 @@
+{
+	"$schema": "https://schemas.premid.app/metadata/1.7",
+	"author": {
+		"id": "394514753420132353",
+		"name": "med4ndro"
+	},
+	"service": "Baekjoon",
+	"altnames": [
+		"백준"
+	],
+	"description": {
+		"en": "Baekjoon Online Judge is where you can solve programming problems and get graded online.",
+		"ko_KR": "Baekjoon Online Judge는 프로그래밍 문제를 풀고 온라인으로 채점받을 수 있는 곳입니다."
+	},
+	"url": "acmicpc.net",
+	"version": "1.0.0",
+	"logo": "https://i.imgur.com/nD4KiGw.png",
+	"thumbnail": "https://i.imgur.com/MXv4CGf.png",
+	"color": "#ffffff",
+	"category": "other",
+	"tags": [
+		"coding",
+		"competition",
+		"education"
+	]
+}
